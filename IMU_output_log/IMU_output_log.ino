@@ -84,9 +84,9 @@ void loop() {
   }
 
   unsigned long curMillis = millis();
-//  Serial.print("Time:");
-//  Serial.print(curMillis);  
-//  Serial.print(",");
+  Serial.print("Time:");
+  Serial.print(curMillis);  
+  Serial.print(",");
   
   Serial.print("Pitch:");
   Serial.print(pry.pitch);
