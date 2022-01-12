@@ -1,0 +1,6 @@
+walk_normal.csv
+walk_short_stride.csv
+walk_long_stride.csv
+run_normal.csv
+run_short_stride.csv
+run_long_stride.csv
